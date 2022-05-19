@@ -1,0 +1,5 @@
+.vscode/
+.DS_Store
+assets/best_score.txt
+Asteroids
+obj/
