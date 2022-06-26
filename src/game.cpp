@@ -3,7 +3,7 @@
 #include "../lib/game.hpp"
 #include "../lib/ship.hpp"
 #include "../lib/asteroid.hpp"
-#include "../lib/font.h"
+#include "../lib/font.hpp"
 #include "string"
 #include "fstream"
 using namespace std::string_literals;
